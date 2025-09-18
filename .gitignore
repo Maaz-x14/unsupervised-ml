@@ -1,24 +1,2 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Virtual environments
-venv/
-env/
-
-# VSCode settings
-.vscode/
-
-# MacOS metadata
-.DS_Store
-
-# Logs and temp files
-*.log
-*.tmp
-
-# OS-specific
-Thumbs.db
+**/__pycache__/
+**/.ipynb_checkpoints/
